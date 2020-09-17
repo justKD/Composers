@@ -1,6 +1,6 @@
 # Composers
 
-[This is an old, archived project. It was once available on the iOS app store, but it has not been recently maintained or updated.]
+### [This is an old, archived project. It was once available on the iOS app store, but it has not been recently maintained or updated.]
 
 Composers is an app for atonal music theory students. It can generate an interactive matrix based on a given pitch-class collection. It then provides useful visual cues and other analysis tools.
 
